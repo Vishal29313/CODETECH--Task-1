@@ -1,9 +1,9 @@
 **Name:** VISHAL BALI<br>
-**Company:** CODTECH IT SOLUTIONS
-**ID** CT08DS2112
-**Domain:** C++ PROGRAMING
-**Duration:** JUNE TO JULY 2024
-**Mentor:** SANTHOSH
+**Company:** CODTECH IT SOLUTIONS<br>
+**ID** CT08DS2112<br>
+**Domain:** C++ PROGRAMING<br>
+**Duration:** JUNE TO JULY 2024<br>
+**Mentor:** SANTHOSH<br>
 
 
 Overview of the Project
